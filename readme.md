@@ -1,3 +1,3 @@
 nama: luthfi ferdian
 hobi: nonton
-warna kesukaan: hitam
+warna kesukaan: biru
